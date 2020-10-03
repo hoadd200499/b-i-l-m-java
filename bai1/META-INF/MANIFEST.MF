@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Bai1
+Bundle-SymbolicName: bai1
+Bundle-Version: 1.0.0.qualifier
+Automatic-Module-Name: bai1
+Bundle-RequiredExecutionEnvironment: JavaSE-14
